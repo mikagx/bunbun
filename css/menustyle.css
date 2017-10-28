@@ -7,10 +7,6 @@ body {
 	background-color:white;
 }
 
-#cart-number {
-
-}
-
 /*Global*/
 .container {
 	width:65%;
@@ -120,22 +116,15 @@ footer{
 	margin-left:40%;
 }
 
-
 #main .category-food {
     margin-left: 190px;
     margin-bottom: 35px;
 }
 
-
+div {
+    display: block;
+}
 #main .category-food .card {
     float: left;
     margin-left: 70px;
-}
-
-.product-image-discription{
-	font-family: avenir; 
-	font-weight:lighter; 
-	font-size:18px; 
-	letter-spacing: 0.75; 
-	margin-top: 1px;
 }
